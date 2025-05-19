@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+font-family:gilroy
+}
+
+body,html {
+height:100%;
+width:100%;
+}
+
+.subscribe-btn {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background-color: #ff4757;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: bold;
+}
