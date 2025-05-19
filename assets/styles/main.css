@@ -8,6 +8,7 @@ font-family:gilroy
 body,html {
 height:100%;
 width:100%;
+
 }
 
 .subscribe-btn {
@@ -17,4 +18,7 @@ width:100%;
   color: #fff;
   font-size: 1rem;
   font-weight: bold;
+
+background-color: #000000;
+
 }
